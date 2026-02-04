@@ -1,0 +1,23 @@
+ body{
+    background-color: aliceblue;
+}
+h3:hover{
+    font-size: xx-large;
+}
+.content p {
+    font-size: x-large;
+    padding: 10px 10px;
+    border: 2px solid gray;
+}
+.content > p {
+    font-size: large;
+    border: 1px dashed palegreen;
+}
+.content input{
+    padding: 10px 0px;
+    font-size: medium;
+    color: blue;
+}
+#test{
+    border: 3px dashed red;
+}
